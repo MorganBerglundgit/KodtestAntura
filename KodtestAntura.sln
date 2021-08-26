@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodtestAntura", "KodtestAntura\KodtestAntura.csproj", "{9CD5B4A6-977B-4D66-9883-1337AB264CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodtestAntura.Tests", "KodtestAntura.Tests\KodtestAntura.Tests.csproj", "{993E5F80-A841-46F3-8CC1-7A379745C765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD5B4A6-977B-4D66-9883-1337AB264CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD5B4A6-977B-4D66-9883-1337AB264CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD5B4A6-977B-4D66-9883-1337AB264CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD5B4A6-977B-4D66-9883-1337AB264CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{993E5F80-A841-46F3-8CC1-7A379745C765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993E5F80-A841-46F3-8CC1-7A379745C765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993E5F80-A841-46F3-8CC1-7A379745C765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993E5F80-A841-46F3-8CC1-7A379745C765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
